@@ -1,0 +1,9 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Åçù–ÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ü¤Ø
+Q	java:S125!"<This block of commented-out lines of code should be removed.(üíõ˜
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ñˆÁÙ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(£¶•Çýÿÿÿÿ
+k
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úÉ‘—
